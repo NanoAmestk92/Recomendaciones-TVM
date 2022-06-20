@@ -188,7 +188,7 @@
 | S4E20    | Los Orígenes del Orden Político                                        | 2011      | Libro          | Buffy        |
 |          |                                                                        |           |                |              |
 | S4E25    | vocalremover.org                                                       | -         | Página Web     | Buffy        |
-| S4E25    | La Sedicción de las Palabras                                           | 2000      | Libro          | Edo          |
+| S4E25    | La Seducción de las Palabras                                           | 2000      | Libro          | Edo          |
 | S4E25    | Raised by Wolves                                                       | 2020      | Serie          | Tomás        |
 |          |                                                                        |           |                |              |
 | YT#1     | Tokyo Revengers                                                        | 2021      | Anime          | Tomás        |
